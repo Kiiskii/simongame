@@ -1,2 +1,5 @@
 # Ignore MAC files
 __MACOSX/
+
+# Ignore .DS_Store files
+.DS_Store
